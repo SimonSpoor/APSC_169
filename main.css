@@ -1,0 +1,150 @@
+body {
+    margin: 0px;
+    background-color: rgb(245, 244, 243);
+}
+
+#head {
+    top: 0px;
+    height: 30%;
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+
+    background-image:
+        linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.7)),
+        url("https://images.unsplash.com/photo-1551810080-3eb3be72d3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-attachment: fixed;
+    background-position: 0 25%;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.3);
+}
+
+#headtext {
+    padding-top: 1%;
+    background-color: rgba(0, 0, 0, 0.3);
+
+    color: white;
+
+    text-shadow: 0px 1px 10px rgba(0, 0, 0, 0.8);
+    font-size: 400%;
+}
+
+#bottombar {
+    display: flex;
+    text-align: center;
+    color: rgb(105, 103, 99);
+    padding-left: 22%;
+    padding-right: 22%;
+    background-color: rgb(219, 218, 215);
+    height: 30px;
+    margin-top: 5%;
+}
+
+#imagedoublecont{
+    display: flex;
+    margin: auto;
+    margin-top: 1%;
+    width: 60%;
+    border-radius: 5px;
+}
+
+.maincont {
+    margin: auto;
+    margin-top: 1%;
+    width: 60%;
+    height: 40%;
+    text-align: left;
+    background-color: rgb(253, 252, 246);
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.01);
+    border-radius: 10px;
+}
+
+.maintext {
+    margin-left: 10px;
+    padding: 10px;
+    width: 50%;
+    float: left;
+}
+
+.imagecont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+    margin: 3%;
+    width: 30%;
+    float: right;
+    background-color: rgb(155, 214, 106);
+    box-shadow: 0px 2px 15px rgba(155, 214, 106, 0.2);
+    border-radius: 2px;
+}
+
+.imagetext {
+    padding: 5px;
+    margin: 0   ;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.imageinline {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    height: 30%;
+    width: 50%;
+    background-color: rgb(155, 214, 106);
+    box-shadow: 0px 2px 15px rgba(155, 214, 106, 0.2);
+    border-radius: 2px;
+}
+
+.imagedouble {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    height: 18rem;
+    width: 40%;
+    background-color: rgb(155, 214, 106);
+    box-shadow: 0px 2px 15px rgba(155, 214, 106, 0.2);
+    border-radius: 2px;
+}
+#img0 {
+    background-image: url("https://extension.entm.purdue.edu/newsletters/pestandcrop/wp-content/uploads/sites/2/2021/08/water.jpg");
+    background-position: -80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+#img1 {
+    background-image: url("https://i.imgur.com/SHbi3on.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img2 {
+    background-image: url("https://i.imgur.com/SHbi3on.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img3 {
+    background-image: url("https://media.discordapp.net/attachments/1285078562818494586/1304054616115118090/image.png?ex=67543a80&is=6752e900&hm=5c827e074a6fa1d2d32461a2f41ef358a15225dabf19651bd227358a780a7201&=&format=webp&quality=lossless");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img4 { 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAaXr4LFlSnXicI918HoPRhW7Gq2hl4hL_8g&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
