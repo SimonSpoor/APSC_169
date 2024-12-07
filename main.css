@@ -77,7 +77,7 @@ body {
     width: 30%;
     float: right;
     background-color: rgb(155, 214, 106);
-    box-shadow: 0px 2px 15px rgba(155, 214, 106, 0.2);
+    box-shadow: 0px 2px 15px rgba(155, 214, 106, 0.1);
     border-radius: 2px;
 }
 
@@ -98,7 +98,7 @@ body {
     height: 30%;
     width: 50%;
     background-color: rgb(155, 214, 106);
-    box-shadow: 0px 2px 15px rgba(155, 214, 106, 0.2);
+    box-shadow: 0px 2px 15px rgba(155, 214, 106, 0.1);
     border-radius: 2px;
 }
 
@@ -113,17 +113,16 @@ body {
     height: 18rem;
     width: 40%;
     background-color: rgb(155, 214, 106);
-    box-shadow: 0px 2px 15px rgba(155, 214, 106, 0.2);
+    box-shadow: 0px 2px 15px rgba(155, 214, 106, 0.1);
     border-radius: 2px;
 }
+
 #img0 {
     background-image: url("https://extension.entm.purdue.edu/newsletters/pestandcrop/wp-content/uploads/sites/2/2021/08/water.jpg");
     background-position: -80px;
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
 
 #img1 {
     background-image: url("https://i.imgur.com/SHbi3on.png");
@@ -138,7 +137,7 @@ body {
 }
 
 #img3 {
-    background-image: url("https://media.discordapp.net/attachments/1285078562818494586/1304054616115118090/image.png?ex=67543a80&is=6752e900&hm=5c827e074a6fa1d2d32461a2f41ef358a15225dabf19651bd227358a780a7201&=&format=webp&quality=lossless");
+    background-image: url("https://i.imgur.com/oLWBmsl.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -147,4 +146,11 @@ body {
     background-image: url("https://i.imgur.com/OtTBUhU.png");
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#img5 { 
+    background-image: url("https://i.imgur.com/Ww6ypgn.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
