@@ -154,3 +154,16 @@ body {
     background-size: cover;
     
 }
+
+#img6 { 
+    background-image: url("https://i.imgur.com/ahXe3mt.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#img7 { 
+    background-image: url("https://i.imgur.com/8VdtREJ.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
